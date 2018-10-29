@@ -1,0 +1,58 @@
+{
+  "cards" : [
+  {
+    "cardName":"Eye Patch",
+    "cardText": "Hotdog",
+    "cardCost":"3",
+    "image":"1"
+  },
+  {
+    "cardName":"Some Words",
+    "cardText": "Hoasdtdog",
+    "cardCost":"3asd",
+    "image":"2"
+  },
+  {
+    "cardName":"Donkey",
+    "cardText": "Hoasdtdog",
+    "cardCost":"3asd",
+    "image":"1"
+  },
+  {
+    "cardName":"Stop Watch",
+    "cardText": "Hoasdtdog",
+    "cardCost":"3asd",
+    "image":"1"
+  },
+  {
+    "cardName":"DBZ is cool",
+    "cardText": "Hoasdtdog",
+    "cardCost":"3asd",
+    "image":"3"
+  },
+  {
+    "cardName":"Weeb",
+    "cardText": "Hoasdtdog",
+    "cardCost":"3asd",
+    "image":"4"
+  },
+  {
+    "cardName":"Nack",
+    "cardText": "Hoasdtdog",
+    "cardCost":"3asd",
+    "image":"5"
+  },
+  {
+    "cardName":"Jutin",
+    "cardText": "Hoasdtdog",
+    "cardCost":"3asd",
+    "image":"2"
+  },
+  {
+    "cardName":"Nack 2 BAY BEE",
+    "cardText": "Hotdog",
+    "cardCost":"3",
+    "image":"1"
+  }
+]
+}
